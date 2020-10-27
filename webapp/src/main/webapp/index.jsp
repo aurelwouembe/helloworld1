@@ -1,9 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project Leslie !!   </h1>
-<h2> Data Service Group is your learning partner </h2>
-<h2> Glad to see you here </h2>
-<h1> Good job Leslie on learning Devops</h1>
-
-<h1> i can wait for me to start making big $$$$ doing this</h1>
-
-<h1> this line is for docker test </h1>
+<h1> Hello, Welcome to this DevOps Project Aurel   </h1>
+<h2> Data Service Group is your learning partner and will make you great </h2>
+<h2> Glad to see you here keep learning</h2>
 
